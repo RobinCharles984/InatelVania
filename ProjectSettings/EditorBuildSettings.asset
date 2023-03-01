@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splashes&Logos/Scn_SplashesNLogos.unity
+    guid: 422a5253e82900e4db60741c51c9143c
+  - enabled: 1
+    path: Assets/Scenes/Menu/Scn_Menu.unity
+    guid: a356a74aebc8e4b42b1d83c54ce28097
+  - enabled: 1
+    path: Assets/Scenes/Game/Scn_Room(0).unity
+    guid: 544cc93eba93a86488663241142c957b
+  - enabled: 1
+    path: Assets/Scenes/Game/Scn_Game1.unity
+    guid: 6e5a8c826f8c1944b8c701727eae93cd
+  - enabled: 1
+    path: Assets/Scenes/Game/Scn_Game2.unity
+    guid: a5e597c7bf5c3f34cbda30e7a5eb0c8f
+  - enabled: 1
+    path: Assets/Scenes/Game/Scn_Game3.unity
+    guid: f21230ee90acbf84cafc7c06f6c759cc
+  - enabled: 1
+    path: Assets/Scenes/Game/Scn_Ending.unity
+    guid: e21ed125447dfef4fa6b421a21026235
+  - enabled: 1
+    path: Assets/Scenes/Test/Scn_Tester.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}

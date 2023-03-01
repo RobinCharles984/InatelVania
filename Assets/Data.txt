@@ -1,0 +1,11 @@
+{
+    "playerX": 0.0,
+    "playerY": 0.0,
+    "playerZ": 0.0,
+    "currentScene": "Scn_Game1",
+    "playerPosition": {
+        "x": 57.69982147216797,
+        "y": -3.7539238929748537,
+        "z": 0.0
+    }
+}

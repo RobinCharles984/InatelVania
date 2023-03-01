@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 9e20149b9bc18cc4b9e70d607926c64b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tls_Streets_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 431
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2967e0813359c247b5290c39fc8b4e1
+      internalID: -2119605628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 432
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ab14bb6552d724fbe577028499b67c
+      internalID: -497586822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 431
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c80372e8342e5a40984fdcf750e334b
+      internalID: 69590295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 435
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97c1f762f3df514781a7ebb7b710f22
+      internalID: 261863361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 435
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60530bd88ca80fc459aad79c22f40a42
+      internalID: 351228221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_5
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 436
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f65a2239ece7ca469d3c14ba3c2737f
+      internalID: 623317269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 431
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b787417479e3c418b26a6b84584edc
+      internalID: 1055012240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_7
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 427
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99240c6920b67f647a1f7d3f75b7943d
+      internalID: 1199323611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_8
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 278
+        width: 150
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb458d4bc2ad1f54488910360b115508
+      internalID: 740456859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_9
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 278
+        width: 150
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b21b586ce4bb34c8c61a77d9047f97
+      internalID: -1494483123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 363
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a0329dec95f1741a437c74be0b620d
+      internalID: -3444030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 365
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754136bea1dca3c4680f39a84d0e2e7c
+      internalID: -178267221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 363
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f6314f08d65984ab5c6b9d3a8825e3
+      internalID: -425138066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 367
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4282c2e409b5c428e2893199fc1693
+      internalID: -2099724257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 367
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524fa741504987745b31081c6bf3ceb2
+      internalID: 203038491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 367
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1990d42763adb96409f211a6de82d072
+      internalID: 1753490334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 363
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0a94227b1c7004b8a0b076316bfcdf
+      internalID: 371299808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_17
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 363
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d619ea57b9dc57740aeeb95ac1a0266c
+      internalID: -1401092514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_18
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 75
+        width: 490
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c575c573200b3942969ae39b8508d6a
+      internalID: 2032127491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_19
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 75
+        width: 563
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377a9a2afcc60ae4b80d58500b431310
+      internalID: 398730151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_20
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 75
+        width: 490
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44d667156a964b41b80e32de5f1a2fa
+      internalID: -378663017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 300
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f9bccc4d6ebd849ba86d3a2bed3bf5
+      internalID: 1728162791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 300
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2607fd20e804c8b4dbf2832274a73512
+      internalID: 365251906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 300
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84afa212dd6323f46ad46dd597f8974c
+      internalID: 2144639250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_24
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 292
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ddd2748ace4fb44bbb9a85e9cd5429
+      internalID: -1034044134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_25
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 300
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e596ecfcb871d4b999c3eba50914d9
+      internalID: -1091635572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_26
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 300
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659bcb42497ac7f4b89a87484a9fce27
+      internalID: -848412911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_27
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 320
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e64d497ff1b6e24dbb4ea83d86a5451
+      internalID: -1360342882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 227
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387f10462464d1442b953efa7bfb5e49
+      internalID: -1492225600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_29
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 224
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775f99028798d9640a44a8c4808a3eeb
+      internalID: -2004628349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 227
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef301cb1fc0bf9b409802fdbaffcc22b
+      internalID: -1131995845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_31
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 231
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3b879bbd6ce9c4f8a29a1227532402
+      internalID: -1252969002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_32
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 231
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33c8adaad111584186b158068306ad2
+      internalID: 1198334703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_33
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 283
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559dfced59689654babc753847b4bf9c
+      internalID: -842606937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 215
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3308151e840ceea47aec2c57f424c188
+      internalID: 1163718699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 224
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557335a4173c04c4b8204b18be0b9685
+      internalID: -2007899964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_36
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 247
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708a7d471915da1428820380c977a25f
+      internalID: -194750500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_37
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 87
+        width: 137
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3baebb8e25e6548861cb068c210fbe
+      internalID: 125699799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_38
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 87
+        width: 138
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84252b3bbc8a60342b060d75f0e740ef
+      internalID: -430657986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_39
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 151
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076606dacf7880344af01bdd4129357b
+      internalID: 1359446540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_40
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 171
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd2fffa7b128e84bb30c06d00c878f1
+      internalID: 1818679750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_41
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 175
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837e8f68993677e4184befc4793ecde5
+      internalID: 751707211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_42
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 164
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7528ee6d40c2443978cfbbec1e4a89
+      internalID: -599145869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_43
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 164
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed17b1dcd204fc74489df12ca31e44b9
+      internalID: -769758763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_44
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 211
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b897f56f8a14d15489f84bb73da97f33
+      internalID: -525375276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_45
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 171
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a30b2ab023b6c48bb27ffca845dadd
+      internalID: -1676886856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_46
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 171
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e1cf9060dae0349a64bd51059df74e
+      internalID: -471046943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_47
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 87
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262de36b17757544da1cf57c89739c5c
+      internalID: -419434718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 87
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342e4701f8d31bd4e95e56d2311a2478
+      internalID: -1288244531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_49
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 131
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b8aca54fefa5b458dd65656ba3cdf3
+      internalID: -43702453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_50
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 95
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e378aec98738d9b4db6c2dc7410bc699
+      internalID: 1349489067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_51
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 95
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8c373a0cc7ef5489e8f5e39557467f
+      internalID: 1735109187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 96
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec687f88c73609243b3a56e692607774
+      internalID: 40345556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_53
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 95
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aeeb40991705140b6a98aba68d84ba
+      internalID: 169499800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_54
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 91
+        width: 67
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386dcb66b6171ec4c9002ea598d8f326
+      internalID: -1522998839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_55
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 95
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0192b7336613a544099dfef80bf2e90c
+      internalID: 2088554342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_56
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 22
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8274bc15893906468d1514eae731e63
+      internalID: 1563950263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_57
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 22
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da609b69f1dde904dbe76f9d3a3ab321
+      internalID: 1890960804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_58
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 25
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57a7447158dc064d9a00a253c8363e9
+      internalID: 813255826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_59
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 22
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70774b27837eee949b461541c55b4064
+      internalID: -980964870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_60
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 22
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034067b10975b7f47b2f17530a16fb60
+      internalID: 1608582859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_61
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 22
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d3807f91253964d94f73f52e3c5c4d
+      internalID: 735180085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tls_Streets_62
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 22
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5740ee5bbd33f6542b13ef3d02008213
+      internalID: -1431691024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tls_Streets_18: 2032127491
+      Tls_Streets_33: -842606937
+      Tls_Streets_56: 1563950263
+      Tls_Streets_49: -43702453
+      Tls_Streets_62: -1431691024
+      Tls_Streets_61: 735180085
+      Tls_Streets_41: 751707211
+      Tls_Streets_34: 1163718699
+      Tls_Streets_29: -2004628349
+      Tls_Streets_5: 623317269
+      Tls_Streets_13: -2099724257
+      Tls_Streets_55: 2088554342
+      Tls_Streets_53: 169499800
+      Tls_Streets_24: -1034044134
+      Tls_Streets_20: -378663017
+      Tls_Streets_16: 371299808
+      Tls_Streets_25: -1091635572
+      Tls_Streets_52: 40345556
+      Tls_Streets_12: -425138066
+      Tls_Streets_32: 1198334703
+      Tls_Streets_10: -3444030
+      Tls_Streets_59: -980964870
+      Tls_Streets_54: -1522998839
+      Tls_Streets_9: -1494483123
+      Tls_Streets_27: -1360342882
+      Tls_Streets_38: -430657986
+      Tls_Streets_40: 1818679750
+      Tls_Streets_11: -178267221
+      Tls_Streets_35: -2007899964
+      Tls_Streets_60: 1608582859
+      Tls_Streets_17: -1401092514
+      Tls_Streets_15: 1753490334
+      Tls_Streets_14: 203038491
+      Tls_Streets_8: 740456859
+      Tls_Streets_2: 69590295
+      Tls_Streets_46: -471046943
+      Tls_Streets_28: -1492225600
+      Tls_Streets_36: -194750500
+      Tls_Streets_51: 1735109187
+      Tls_Streets_31: -1252969002
+      Tls_Streets_44: -525375276
+      Tls_Streets_57: 1890960804
+      Tls_Streets_43: -769758763
+      Tls_Streets_58: 813255826
+      Tls_Streets_19: 398730151
+      Tls_Streets_7: 1199323611
+      Tls_Streets_21: 1728162791
+      Tls_Streets_0: -2119605628
+      Tls_Streets_48: -1288244531
+      Tls_Streets_37: 125699799
+      Tls_Streets_1: -497586822
+      Tls_Streets_42: -599145869
+      Tls_Streets_30: -1131995845
+      Tls_Streets_22: 365251906
+      Tls_Streets_39: 1359446540
+      Tls_Streets_50: 1349489067
+      Tls_Streets_3: 261863361
+      Tls_Streets_23: 2144639250
+      Tls_Streets_45: -1676886856
+      Tls_Streets_4: 351228221
+      Tls_Streets_47: -419434718
+      Tls_Streets_26: -848412911
+      Tls_Streets_6: 1055012240
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
